@@ -1,5 +1,5 @@
 body{
-	background-color: lightgrey;
+	background-color: lightblue;
 }
 h1{
 	font-size: 30px;
@@ -18,6 +18,6 @@ h2{
 .big.uppercase{
 	color: navy;	
 }
-span{
+h1 span{
 	color: violet;
 }
