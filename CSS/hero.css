@@ -48,9 +48,14 @@ main{
 	padding: 0 200px;
 }
 
-a{
+main a{
 	color: #e70c19;
 }
+
+footer a{
+	color: white;
+}
+
 a:hover{
 	color: purple;
 }
